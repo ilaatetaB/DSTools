@@ -26,7 +26,7 @@ Below is the scope of the first exercise:
 
 ## Author
 
-John Doe
+ILA Atetabugre
 
 ## Repository Link
 
